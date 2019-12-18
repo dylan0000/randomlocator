@@ -134,4 +134,5 @@ tiles.setTilemap(tiles.createTilemap(
 mySprite.setPosition(0, 0)
 controller.moveSprite(mySprite, 100, 0)
 mySprite.ay = 350
+// a
 scene.cameraFollowSprite(mySprite)
